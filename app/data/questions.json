@@ -1,1052 +1,347 @@
 [
   {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Dubai", "London", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Shane Warne",
-      "Anil Kumble",
-      "James Anderson",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Round", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "India", "Australia", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "Melbourne", "London", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Oval", "Cylindrical", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "West Indies", "England", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "Dubai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Mumbai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["London", "Dubai", "Melbourne", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Anil Kumble",
-      "James Anderson",
-      "Shane Warne",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["West Indies", "India", "Australia", "England"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Muttiah Muralitharan",
-      "Anil Kumble",
-      "Shane Warne"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "London", "Melbourne", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Round", "Oval", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Oval", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["London", "Mumbai", "Melbourne", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Round", "Oval", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Mumbai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Muttiah Muralitharan",
-      "James Anderson",
-      "Anil Kumble",
-      "Shane Warne"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "West Indies", "Australia", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Shane Warne",
-      "Muttiah Muralitharan",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Shane Warne",
-      "Muttiah Muralitharan",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Square", "Round", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "West Indies", "India", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Muttiah Muralitharan",
-      "Shane Warne",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "London", "Dubai", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["West Indies", "England", "Australia", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Square", "Oval", "Round"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Dubai", "Mumbai", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "India", "England", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "London", "Melbourne", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Oval", "Round", "Cylindrical"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Chris Gayle",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Square", "Oval", "Cylindrical"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "West Indies", "India", "England"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Martin Guptill",
-      "Rohit Sharma",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "Dubai", "London", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Mumbai", "London", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Oval", "Cylindrical", "Round"],
-    "answer": "Round"
-  },
-  {
     "question": "What is the length of a cricket pitch?",
     "options": ["20 yards", "22 yards", "25 yards", "18 yards"],
     "answer": "22 yards"
   },
   {
-    "question": "Who holds the record for the highest individual ODI score?",
+    "question": "How many players are in a cricket team?",
+    "options": ["10", "12", "11", "9"],
+    "answer": "11"
+  },
+  {
+    "question": "Who is known as the “God of Cricket”?",
     "options": [
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "London", "Mumbai", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "West Indies", "Australia", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Shane Warne",
-      "Anil Kumble",
-      "Muttiah Muralitharan",
-      "James Anderson"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "Dubai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["India", "England", "West Indies", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["West Indies", "Australia", "England", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "London", "Mumbai", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Muttiah Muralitharan",
-      "Shane Warne",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Mumbai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "England", "India", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Square", "Round", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "London", "Mumbai", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Round", "Oval", "Cylindrical"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Oval", "Square", "Round", "Cylindrical"],
-    "answer": "Round"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Mumbai", "London", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Chris Gayle",
-      "Martin Guptill",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Muttiah Muralitharan",
-      "Anil Kumble",
-      "Shane Warne"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Dubai", "Mumbai", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Rohit Sharma",
-      "Chris Gayle",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Rohit Sharma",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "Australia", "West Indies", "India"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "How many balls are bowled in one over?",
-    "options": ["5", "6", "8", "4"],
-    "answer": "6"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Oval", "Cylindrical", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Round", "Cylindrical", "Square", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Rohit Sharma",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Cylindrical", "Round", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Muttiah Muralitharan",
-      "Shane Warne",
-      "James Anderson",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Chris Gayle",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Oval", "Square", "Round", "Cylindrical"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Oval", "Round", "Square"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["India", "West Indies", "England", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Square", "Round", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Oval", "Square", "Round"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Muttiah Muralitharan",
-      "Shane Warne",
-      "James Anderson",
-      "Anil Kumble"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Round", "Cylindrical", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "Dubai", "London", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Dubai", "Mumbai", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Oval", "Square", "Cylindrical", "Round"],
-    "answer": "Round"
-  },
-  {
-    "question": "Who is known as the 'God of Cricket'?",
-    "options": [
+      "Virat Kohli",
       "Brian Lara",
       "Sachin Tendulkar",
-      "Ricky Ponting",
-      "Virat Kohli"
+      "Ricky Ponting"
     ],
     "answer": "Sachin Tendulkar"
   },
   {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Melbourne", "London", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "England", "India", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Anil Kumble",
-      "Shane Warne",
-      "James Anderson",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Cylindrical", "Oval", "Round"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Anil Kumble",
-      "James Anderson",
-      "Shane Warne",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Cylindrical", "Round", "Oval"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "India", "England", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["India", "West Indies", "England", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Anil Kumble",
-      "James Anderson",
-      "Shane Warne",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["London", "Melbourne", "Mumbai", "Dubai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["India", "Australia", "England", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Martin Guptill",
-      "Virender Sehwag",
-      "Chris Gayle",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Virender Sehwag"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["England", "India", "Australia", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "What do you call scoring 100 runs in an innings?",
-    "options": ["Century", "Milestone", "Tonner", "Double"],
+    "question": "What is scoring 100 runs in an innings called?",
+    "options": ["Century", "Double", "Tonner", "Milestone"],
     "answer": "Century"
   },
   {
-    "question": "Which player has taken the most Test wickets?",
+    "question": "How many balls are bowled in one over?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which country invented cricket?",
+    "options": ["India", "England", "Australia", "South Africa"],
+    "answer": "England"
+  },
+  {
+    "question": "LBW stands for what?",
+    "options": [
+      "Long Ball Wide",
+      "Leg Before Wicket",
+      "Left Bat Wide",
+      "Lower Body Width"
+    ],
+    "answer": "Leg Before Wicket"
+  },
+  {
+    "question": "What is a “duck” in cricket?",
+    "options": ["6 runs", "Out without scoring", "Caught out", "Two runs"],
+    "answer": "Out without scoring"
+  },
+  {
+    "question": "Who is known as “Captain Cool”?",
+    "options": ["MS Dhoni", "Ricky Ponting", "Kane Williamson", "Eoin Morgan"],
+    "answer": "MS Dhoni"
+  },
+  {
+    "question": "How many stumps make up a wicket?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "What does ICC stand for?",
+    "options": [
+      "International Cricket Council",
+      "Indian Cricket Club",
+      "International Champions Committee",
+      "Inter Cricket Coalition"
+    ],
+    "answer": "International Cricket Council"
+  },
+  {
+    "question": "What’s a “hat-trick”?",
+    "options": [
+      "3 fours in a row",
+      "3 wickets in 3 balls",
+      "3 sixes in one over",
+      "3 maidens in a match"
+    ],
+    "answer": "3 wickets in 3 balls"
+  },
+  {
+    "question": "What is the weight of a cricket ball?",
+    "options": ["120–130 g", "135–145 g", "155.9–163 g", "165–170 g"],
+    "answer": "155.9–163 g"
+  },
+  {
+    "question": "What is the max overs per side in an ODI?",
+    "options": ["20", "30", "40", "50"],
+    "answer": "50"
+  },
+  {
+    "question": "“T20” means how many overs per team?",
+    "options": ["15", "18", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "question": "How many runs if ball crosses boundary on the full?",
+    "options": ["4", "5", "6", "2"],
+    "answer": "6"
+  },
+  {
+    "question": "What’s a maiden over?",
+    "options": [
+      "No runs scored",
+      "No wickets taken",
+      "All dot balls",
+      "All fours"
+    ],
+    "answer": "No runs scored"
+  },
+  {
+    "question": "Which country won the first World Cup (1975)?",
+    "options": ["Australia", "India", "West Indies", "England"],
+    "answer": "West Indies"
+  },
+  {
+    "question": "What’s the rectangular area for play called?",
+    "options": ["Ground", "Pitch", "Square", "Crease"],
+    "answer": "Pitch"
+  },
+  {
+    "question": "“The Ashes” is played between which two teams?",
+    "options": [
+      "India & Pakistan",
+      "England & Australia",
+      "South Africa & New Zealand",
+      "Sri Lanka & Bangladesh"
+    ],
+    "answer": "England & Australia"
+  },
+  {
+    "question": "What’s a “no-ball”?",
+    "options": ["Illegal delivery", "Ball missed", "Bouncer", "Wide"],
+    "answer": "Illegal delivery"
+  },
+  {
+    "question": "What is a “wide ball”?",
+    "options": [
+      "Too wide to hit",
+      "Hit out of ground",
+      "Bowled fast",
+      "Too short"
+    ],
+    "answer": "Too wide to hit"
+  },
+  {
+    "question": "Highest individual Test score?",
+    "options": ["375", "400 not out", "380", "401"],
+    "answer": "400 not out"
+  },
+  {
+    "question": "How many innings in a Test match?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "Duration of a Test match?",
+    "options": ["3 days", "4 days", "5 days", "6 days"],
+    "answer": "5 days"
+  },
+  {
+    "question": "What’s a “free hit”?",
+    "options": [
+      "Ball after no-ball",
+      "Penalty run",
+      "First ball of over",
+      "Bouncer"
+    ],
+    "answer": "Ball after no-ball"
+  },
+  {
+    "question": "What are the small pieces on top of stumps?",
+    "options": ["Pins", "Bails", "Bars", "Sticks"],
+    "answer": "Bails"
+  },
+  {
+    "question": "Who scored 100 international centuries?",
+    "options": [
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Virat Kohli",
+      "Brian Lara"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Who is called “The Wall”?",
+    "options": [
+      "Rahul Dravid",
+      "Sourav Ganguly",
+      "AB de Villiers",
+      "Steve Waugh"
+    ],
+    "answer": "Rahul Dravid"
+  },
+  {
+    "question": "Ground known as “Home of Cricket”?",
+    "options": ["MCG", "Lord’s", "Eden Gardens", "SCG"],
+    "answer": "Lord’s"
+  },
+  {
+    "question": "Which team won 2011 World Cup?",
+    "options": ["India", "Sri Lanka", "Australia", "Pakistan"],
+    "answer": "India"
+  },
+  {
+    "question": "Who hit six sixes in one over in 2007 T20 WC?",
+    "options": [
+      "Chris Gayle",
+      "Yuvraj Singh",
+      "AB de Villiers",
+      "Brendon McCullum"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "question": "What is “sledging”?",
+    "options": ["Running fast", "Verbal taunting", "Sliding", "Bowling spin"],
+    "answer": "Verbal taunting"
+  },
+  {
+    "question": "What is “follow-on”?",
+    "options": ["Team bats again", "Replay match", "Extra inning", "Powerplay"],
+    "answer": "Team bats again"
+  },
+  {
+    "question": "What is a “bouncer”?",
+    "options": ["Full-length", "Short-pitched rising ball", "Yorker", "Spin"],
+    "answer": "Short-pitched rising ball"
+  },
+  {
+    "question": "When did IPL start?",
+    "options": ["2005", "2007", "2008", "2009"],
+    "answer": "2008"
+  },
+  {
+    "question": "Who won the first IPL title?",
+    "options": [
+      "Chennai Super Kings",
+      "Rajasthan Royals",
+      "Mumbai Indians",
+      "KKR"
+    ],
+    "answer": "Rajasthan Royals"
+  },
+  {
+    "question": "Which player hit the fastest ODI century (2015)?",
+    "options": [
+      "AB de Villiers",
+      "Corey Anderson",
+      "Glenn Maxwell",
+      "Jos Buttler"
+    ],
+    "answer": "AB de Villiers"
+  },
+  {
+    "question": "Who was India’s 1983 World Cup captain?",
+    "options": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Mohinder Amarnath",
+      "Sourav Ganguly"
+    ],
+    "answer": "Kapil Dev"
+  },
+  {
+    "question": "What is DRS?",
+    "options": [
+      "Decision Review System",
+      "Double Run Score",
+      "Duck Run System",
+      "Defensive Run Stat"
+    ],
+    "answer": "Decision Review System"
+  },
+  {
+    "question": "Which bowler has most Test wickets?",
     "options": [
       "Shane Warne",
-      "James Anderson",
       "Muttiah Muralitharan",
+      "James Anderson",
       "Anil Kumble"
     ],
     "answer": "Muttiah Muralitharan"
   },
   {
-    "question": "Who holds the record for the highest individual ODI score?",
+    "question": "Which batsman has most ODI runs?",
     "options": [
-      "Martin Guptill",
-      "Rohit Sharma",
-      "Chris Gayle",
-      "Virender Sehwag"
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Virat Kohli",
+      "Sanath Jayasuriya"
     ],
-    "answer": "Rohit Sharma"
+    "answer": "Sachin Tendulkar"
   },
   {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
+    "question": "What is a “super over”?",
+    "options": ["Tie-breaker over", "Extra innings", "Free hit", "Bonus runs"],
+    "answer": "Tie-breaker over"
   },
   {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Virender Sehwag",
-      "Martin Guptill",
-      "Rohit Sharma"
-    ],
-    "answer": "Rohit Sharma"
+    "question": "Which nation won 2019 World Cup?",
+    "options": ["New Zealand", "Australia", "England", "India"],
+    "answer": "England"
   },
   {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Mumbai", "Melbourne", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Dubai", "London", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["West Indies", "India", "England", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "India", "England", "West Indies"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["London", "Melbourne", "Dubai", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
+    "question": "Who is “Universe Boss”?",
     "options": [
       "Chris Gayle",
-      "Virender Sehwag",
-      "Rohit Sharma",
-      "Martin Guptill"
+      "Andre Russell",
+      "Kieron Pollard",
+      "Dwayne Bravo"
     ],
-    "answer": "Rohit Sharma"
+    "answer": "Chris Gayle"
   },
   {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Melbourne", "London", "Mumbai"],
-    "answer": "Dubai"
+    "question": "Who has the nickname “Boom Boom”?",
+    "options": ["Shahid Afridi", "Babar Azam", "Shoaib Akhtar", "Imran Khan"],
+    "answer": "Shahid Afridi"
   },
   {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["Australia", "India", "England", "West Indies"],
-    "answer": "West Indies"
+    "question": "How many runs for overthrow that crosses boundary?",
+    "options": ["4", "2", "6", "1"],
+    "answer": "4"
   },
   {
-    "question": "What shape is a cricket ball?",
-    "options": ["Square", "Oval", "Cylindrical", "Round"],
-    "answer": "Round"
+    "question": "Who was the first cricketer to hit 6 sixes in an over?",
+    "options": ["Garfield Sobel", "Gary Sobers", "Viv Richards", "Chris Gayle"],
+    "answer": "Gary Sobers"
   },
   {
-    "question": "Who holds the record for the highest individual ODI score?",
+    "question": "Which is the largest cricket stadium?",
     "options": [
-      "Rohit Sharma",
-      "Chris Gayle",
-      "Martin Guptill",
-      "Virender Sehwag"
+      "Melbourne Cricket Ground",
+      "Eden Gardens",
+      "Narendra Modi Stadium",
+      "Lord’s"
     ],
-    "answer": "Rohit Sharma"
+    "answer": "Narendra Modi Stadium"
   },
   {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Melbourne", "Mumbai", "Dubai", "London"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "How many players are there in a cricket team?",
-    "options": ["10", "11", "12", "9"],
-    "answer": "11"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["London", "Dubai", "Mumbai", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Chris Gayle",
-      "Rohit Sharma",
-      "Virender Sehwag",
-      "Martin Guptill"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Dubai", "Melbourne", "London", "Mumbai"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "What shape is a cricket ball?",
-    "options": ["Cylindrical", "Oval", "Square", "Round"],
-    "answer": "Round"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Muttiah Muralitharan",
-      "Anil Kumble",
-      "Shane Warne",
-      "James Anderson"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Shane Warne",
-      "Anil Kumble",
-      "Muttiah Muralitharan",
-      "James Anderson"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Where is the ICC headquarters located?",
-    "options": ["Mumbai", "London", "Dubai", "Melbourne"],
-    "answer": "Dubai"
-  },
-  {
-    "question": "Who holds the record for the highest individual ODI score?",
-    "options": [
-      "Virender Sehwag",
-      "Rohit Sharma",
-      "Martin Guptill",
-      "Chris Gayle"
-    ],
-    "answer": "Rohit Sharma"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Shane Warne",
-      "Anil Kumble",
-      "James Anderson",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "Muttiah Muralitharan",
-      "Anil Kumble",
-      "Shane Warne",
-      "James Anderson"
-    ],
-    "answer": "Muttiah Muralitharan"
-  },
-  {
-    "question": "Which country won the first Cricket World Cup?",
-    "options": ["West Indies", "England", "India", "Australia"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "Which player has taken the most Test wickets?",
-    "options": [
-      "James Anderson",
-      "Shane Warne",
-      "Anil Kumble",
-      "Muttiah Muralitharan"
-    ],
-    "answer": "Muttiah Muralitharan"
+    "question": "Which country hosted 2023 World Cup?",
+    "options": ["Australia", "India", "England", "New Zealand"],
+    "answer": "India"
   }
 ]
